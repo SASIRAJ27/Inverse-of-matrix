@@ -17,6 +17,8 @@ Print the inverse of the array using np.linalg.inv
 
 ## PROGRAM:
 ```python
+#Developed by: SAIRAJKUNAR T J
+#RegisterNumber:22005240
 import numpy as np
 l1,l2=[],[]
 n1,n2=int(input()),int(input())
